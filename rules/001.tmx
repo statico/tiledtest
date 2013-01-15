@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="rules" tilewidth="16" tileheight="16">
+   <image source="../graphics/rules.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="17" name="small" tilewidth="16" tileheight="16">
+   <image source="../graphics/small.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="273" name="big" tilewidth="32" tileheight="32">
+   <image source="../graphics/big.png" width="160" height="96"/>
+ </tileset>
+ <layer name="ruleregions" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA+YIRictj0MI/aYNS/lLlpMPpxFIyCUUAYAAATHwA5
+  </data>
+ </layer>
+ <layer name="ruleset" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA+MIRifGxBKEZn4zIPm1pBNPMMsainB6C2+4g1j9jwozYgxn3IcU2MeYTSCynmjYJRMAroAwBADgc5
+  </data>
+ </layer>
+ <layer name="rule_ground" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztz7cRACAQxEAoAe/pv0xCVALPvKIN74x5P2evPRzgCCdYYhn7C1zhBnfhfwf2T3jBW/hHTfuxAxmQAVg=
+  </data>
+ </layer>
+</map>
