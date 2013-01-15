@@ -3,4 +3,4 @@ tiledtest
 
 Testing big and small tile generation with Tiled
 
-[Imgur](http://i.imgur.com/yQPlG)
+<a href="http://imgur.com/yQPlG"><img src="http://i.imgur.com/yQPlG.png" title="Hosted by imgur.com" alt="" /></a>
